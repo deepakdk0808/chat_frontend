@@ -6,7 +6,6 @@ import ProfilePage from "./pages/Profile";
 import { Routes, Route, Navigate } from "react-router-dom";
 import { useAuthStore } from "./store/useAuthStore";
 import { useEffect } from "react";
-
 import { Loader } from "lucide-react";
 import { Toaster } from "react-hot-toast";
 
